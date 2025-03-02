@@ -11,3 +11,4 @@ Git이 생소한 종훈이를 위해 만든 `Repository`
 -   Pull
 -   Merge
 -   커밋 메시지 규칙
+-   Git Bash
